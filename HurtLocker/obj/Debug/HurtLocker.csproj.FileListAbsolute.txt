@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\CST - 250\HurtLocker\HurtLocker\bin\Debug\HurtLocker.exe.config
+C:\Users\Acer\Desktop\CST - 250\HurtLocker\HurtLocker\bin\Debug\HurtLocker.exe
+C:\Users\Acer\Desktop\CST - 250\HurtLocker\HurtLocker\bin\Debug\HurtLocker.pdb
+C:\Users\Acer\Desktop\CST - 250\HurtLocker\HurtLocker\obj\Debug\HurtLocker.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\CST - 250\HurtLocker\HurtLocker\obj\Debug\HurtLocker.exe
+C:\Users\Acer\Desktop\CST - 250\HurtLocker\HurtLocker\obj\Debug\HurtLocker.pdb
+C:\Users\Chest\Dropbox\PC\Downloads\HurtLocker-20220502T021019Z-001\HurtLocker\obj\Debug\HurtLocker.csproj.AssemblyReference.cache
+C:\Users\Chest\Dropbox\PC\Downloads\HurtLocker-20220502T021019Z-001\HurtLocker\obj\Debug\HurtLocker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chest\Dropbox\PC\Downloads\HurtLocker-20220502T021019Z-001\HurtLocker\obj\Debug\HurtLocker.csproj.CoreCompileInputs.cache
+C:\Users\Chest\Dropbox\PC\Downloads\HurtLocker-20220502T021019Z-001\HurtLocker\obj\Debug\HurtLocker.exe
+C:\Users\Chest\Dropbox\PC\Downloads\HurtLocker-20220502T021019Z-001\HurtLocker\obj\Debug\HurtLocker.pdb
